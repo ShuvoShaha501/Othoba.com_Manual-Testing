@@ -1,1 +1,1 @@
-# Othoba.com_Manual-Testing
+Test Scenario and Test Case (Othoba.com)
